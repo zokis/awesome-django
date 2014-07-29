@@ -8,7 +8,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Authentication](#authentication)
     - [Debugging](#debugging)
     - [Fields](#fields)
-    - [File Transfers](#file-transfers)
+    - [File Transfers](#file-transfer)
     - [Forms](#forms)
     - [Migrations](#migrations)
     - [Model Extensions](#model-extensions)
